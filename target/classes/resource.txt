@@ -1,0 +1,26 @@
+790  docker pull repo.myovcloud.com/ov-ftp-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-client-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-master-poller-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-scheduler-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-wireless-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-grafana-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-ag-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-log-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-worker-poller-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-analytics-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-av-cloud_2.0_r01:5.1.48
+791  telnet google.com
+792  docker pull repo.myovcloud.com/ov-nginx-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-tomcat-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-inventory-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-statistics-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-vlan-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-dal-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-mtcloud-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-resourcemanager-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-telegraf-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-ftp-cloud_2.0_r01:5.1.48
+793  exit
+794  docker pull repo.myovcloud.com/ov-msp-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-redis-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-influxdb-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-watchdog-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-postgresql-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-mongodb-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-openldap-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-activemq-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-data-migration-cloud_2.0_r01:5.1.48
+795  docker pull repo.myovcloud.com/ov-openldap-cloud_2.0_r01:5.1.48
+796  docker pull repo.myovcloud.com/ov-master-poller-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-scheduler-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-wireless-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-grafana-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-ag-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-log-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-worker-poller-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-analytics-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-av-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-msp-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-redis-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-influxdb-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-watchdog-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-postgresql-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-mongodb-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-openldap-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-activemq-cloud_2.0_r01:5.1.48
+797  history
+798  docker stop $(docker ps -a -q) && docker rm $(docker ps -a -q) && docker system prune -f && docker volume prune -f
+799  docker images
+800  docker pull repo.myovcloud.com/ov-nginx-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-tomcat-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-inventory-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-statistics-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-vlan-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-dal-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-mtcloud-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-resourcemanager-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-telegraf-cloud_2.0_r01:5.1.48
+801  telnet google.com
+802  docker pull repo.myovcloud.com/ov-nginx-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-tomcat-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-inventory-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-statistics-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-vlan-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-dal-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-mtcloud-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-resourcemanager-cloud_2.0_r01:5.1.48 && docker pull repo.myovcloud.com/ov-telegraf-cloud_2.0_r01:5.1.48
+803  history
+804  docker run -v ~:/root -v /var/run/docker.sock:/var/run/docker.sock -v orchestrator:/data -e upam_host="upam.ovcirrus.com" -e RUNNING_MODE=small repo.myovcloud.com/ov-orchestrator-cloud_2.0_r01:5.1.48 upgrade --host_ip=143.209.0.2 --type tov
+805  docker ps
+thisisthetestofmytestcaseforstreamandparallelstream
+fgsd
+dfs
+fdgh
+ghkjg
+khjgl
+sae
+yee
+jgfhj
+gfhmjkj
